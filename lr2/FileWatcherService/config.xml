@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options>
+  <StorageOptions>
+    <SourceDir>C:\Users\polin\source\repos\3_sem\lr2\SourceDir</SourceDir>
+    <TargetDir>C:\Users\polin\source\repos\3_sem\lr2\TargetDir</TargetDir>
+  </StorageOptions>
+  <ArchiveOptions>
+    <ArchName>C:\Users\polin\source\repos\3_sem\lr2\FileWatcherService\files.zip</ArchName>
+  </ArchiveOptions>
+  <CryptingOptions>
+    <Key>12345678</Key>
+  </CryptingOptions>
+</Options>
