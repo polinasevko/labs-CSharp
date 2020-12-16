@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataOptions>
+  <ConnectionString>Data Source = DESKTOP-UOD196B; Initial Catalog = AdventureWorks2019; Integrated Security = True</ConnectionString>
+  <SourceDirectory>C:\Users\polin\source\repos\3_sem\lr2\SourceDir</SourceDirectory>
+  <TargetDirectory>C:\Users\polin\source\repos\3_sem\lr2\TargetDir</TargetDirectory>
+  <LoggerConnectionString>Data Source = DESKTOP-UOD196B; Initial Catalog = ApplicationInsights; Integrated Security = True</LoggerConnectionString>
+</DataOptions>
